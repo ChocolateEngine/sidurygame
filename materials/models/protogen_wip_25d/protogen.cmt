@@ -1,0 +1,10 @@
+"basic_3d"
+{
+	"diffuse"       "models/protogen_wip_25d/protogen25d_base"
+	"normal"        "models/protogen_wip_25d/protogen25d_normal"
+	"emissive"      "models/protogen_wip_25d/protogen25d_emissive"
+	
+	"ao"            "models/protogen_wip_25d/protogen25d_ao"
+	"ao_power"      "0.5"
+}
+
