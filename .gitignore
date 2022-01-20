@@ -27,3 +27,7 @@ scripts/*.mak
 .emacs.*
 *.desktop
 *.bak
+
+# game ignore files
+imgui.ini
+
