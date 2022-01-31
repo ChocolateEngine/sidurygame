@@ -1,0 +1,19 @@
+"mapInfo"
+{
+	"version" "1"
+	
+	"mapName" "hl c1a0"
+	
+	"modelPath" "D:/sourceengine/vmf2obj/hl1/c1a0.obj"
+	
+	"ang"       "[0, 0, 90]"  // rotates the world model
+	"physAng"   "[90, 0, 0]"  // rotates the world model physics if needed
+	
+	// not used at the moment, once i get a shader working for this, then this will be used
+	"skybox" ""
+	
+	// should have this be an entity to be placed and handle spawning
+	"spawnPos" "[227, 306, -230]"
+	"spawnAng" "[0, 270, 0]"
+}
+
