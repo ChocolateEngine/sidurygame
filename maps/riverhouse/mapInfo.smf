@@ -9,8 +9,7 @@
 	"ang"       "[0, 0, 90]"  // rotates the world model
 	"physAng"   "[90, 0, 0]"  // rotates the world model physics if needed
 	
-	// not used at the moment, once i get a shader working for this, then this will be used
-	"skybox" ""
+	"skybox" "materials/skybox/sky_day01_01"
 	
 	// should have this be an entity to be placed and handle spawning
 	"spawnPos" "[1133, -722, 272]"

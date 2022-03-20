@@ -1,0 +1,7 @@
+"skybox"
+{
+	// basisu -file "sky_day01_01ft.png" "sky_day01_01bk.png" "sky_day01_01up.png" "sky_day01_01dn.pn
+g" "sky_day01_01rt.png" "sky_day01_01lf.png" -ktx2 -tex_type cubemap -output_file "sky_day01_01.ktx"
+	
+	"sky"           "skybox/sky_day01_01"
+}
