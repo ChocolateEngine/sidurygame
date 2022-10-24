@@ -1,10 +1,12 @@
-"basic_3d"
 {
-	"diffuse"       "models/protogen_wip_25d/protogen25d_base"
-	"normal"        "models/protogen_wip_25d/protogen25d_normal"
-	"emissive"      "models/protogen_wip_25d/protogen25d_emissive"
+	shader: "basic_3d",
 	
-	"ao"            "models/protogen_wip_25d/protogen25d_ao"
-	"ao_power"      "0.5"
+	"diffuse":       "materials/models/protogen_wip_25d/protogen25d_base",
+	"normal":        "materials/models/protogen_wip_25d/protogen25d_normal",
+	"emissive":      "materials/models/protogen_wip_25d/protogen25d_emissive",
+	"emissivePower": 1.0,
+	
+	"ao":            "materials/models/protogen_wip_25d/protogen25d_ao",
+	"aoPower":       1.0,
 }
 
