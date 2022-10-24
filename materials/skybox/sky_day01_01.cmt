@@ -1,6 +1,6 @@
-"skybox"
 {
-	"sky"           "skybox/sky_day01_01"
+	"shader": "skybox",
+	"sky": "materials/skybox/sky_day01_01",
 }
 
 // command to create this with basisu
