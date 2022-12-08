@@ -1,0 +1,22 @@
+{
+	"name":        "sidury",
+	"windowTitle": "Sidury", // will probably remove this
+	
+	"searchPaths":
+	{
+		// "write": "$app_path$",
+		// "assets": "$root_path$/sidury_content",
+
+		"binPaths":
+		[
+			"$root_path$/bin",
+        ],
+
+		"paths":
+		[
+			"$app_path$",
+			"$root_path$/core",
+		],
+	}
+}
+
