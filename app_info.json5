@@ -9,6 +9,7 @@
 
 		"binPaths":
 		[
+			"$app_path$/bin",
 			"$root_path$/bin",
         ],
 
