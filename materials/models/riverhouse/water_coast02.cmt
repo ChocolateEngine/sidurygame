@@ -1,0 +1,6 @@
+{
+	shader: "water",
+	
+	"diffuse":       "models/riverhouse/woodwall045a",
+}
+
