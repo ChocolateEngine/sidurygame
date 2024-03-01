@@ -5,7 +5,6 @@
 	"searchPaths":
 	{
 		// "write": "$app_path$",
-		// "assets": "$root_path$/sidury_content",
 
 		"binPaths":
 		[
@@ -17,6 +16,13 @@
 		[
 			"$app_path$",
 			"$root_path$/core",
+		],
+
+		"sourceAssets":
+		[
+			"$app_path$",
+			"$root_path$/core",
+			"E:/sourceengine/vmf2obj",
 		],
 	}
 }
