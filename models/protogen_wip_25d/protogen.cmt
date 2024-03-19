@@ -1,0 +1,14 @@
+{
+	shader: "basic_3d",
+	
+	"diffuse":       "protogen_wip_25d/protogen25d_base",
+	"normalMap":     "protogen_wip_25d/protogen25d_normal",
+	"emissive":      "protogen_wip_25d/protogen25d_emissive",
+	"emissivePower": 1.0,
+	
+	"ao":            "protogen_wip_25d/protogen25d_ao",
+	"aoPower":       1.0,
+	
+	"useNormalMap":  true,
+}
+

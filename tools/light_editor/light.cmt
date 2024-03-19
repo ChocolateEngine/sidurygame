@@ -1,4 +1,0 @@
-{
-	shader:  "basic_3d", // TODO: ADD UNLIT SHADER !!!
-	diffuse: "materials/base/white",
-}

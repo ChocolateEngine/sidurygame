@@ -4,7 +4,7 @@
 	
 	"mapName" "riverhouse"
 	
-	"modelPath" "materials/models/riverhouse/riverhouse_source_scale.obj"
+	"modelPath" "models/riverhouse/riverhouse_source_scale.obj"
 	
 	"ang"       "[0, 0, 90]"  // rotates the world model
 	"physAng"   "[90, 0, 0]"  // rotates the world model physics if needed
