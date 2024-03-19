@@ -14,5 +14,9 @@
 	// should have this be an entity to be placed and handle spawning
 	"spawnPos" "[1133, -722, 272]"
 	"spawnAng" "[0, -35, 0]"
+
+	"worldLight"      "1"
+	"worldLightAng"   "[63 0 57]"
+	"worldLightColor" "[1 0.794 0.606 1]"
 }
 
